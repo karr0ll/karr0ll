@@ -1,4 +1,10 @@
-### Hi there 👋
+  ### Hi there 👋
+<div id="header" align="center">
+</div>
+<div id="badges" align="center">
+  <a href="https://t.me/yngcrdnl">
+    <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="tg_badge">
+  </a>
 
 <!--
 **karr0ll/karr0ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
