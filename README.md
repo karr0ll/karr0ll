@@ -12,9 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=karr0ll&color=lightgrey&style=flat" alt="counter_bandge">
 </div>
 
-
-### Обо мне:
 ***
+### Обо мне:
+
 <div id="tech_stack_icons">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40">
