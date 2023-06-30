@@ -1,6 +1,10 @@
-  ### Hi there 👋
-<div id="header" align="center">
+<div id="welcome_header" align="center">
+  <font color="#8484c0">
+    <h2>print</h2>
+  </font>
 </div>
+  <h2>print("Hello, World!)</h2>
+
 <div id="badges" align="center">
   <a href="https://t.me/yngcrdnl">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="tg_badge">
