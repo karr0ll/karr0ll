@@ -14,7 +14,7 @@
 
 ***
 ### Обо мне:
-[![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,postgres,postman,django,bootstrap,redis)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40">
+[![My Skills](https://skillicons.dev/icons?i=py,flask,sqlite,postgres,postman,django,bootstrap,redis,docker,gitlab,nginx)](https://skillicons.dev)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40">
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karr0ll)](https://github.com/anuraghazra/github-readme-stats)
